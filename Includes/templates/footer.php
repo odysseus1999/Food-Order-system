@@ -8,7 +8,7 @@
 							<script type="text/javascript"> 
 								document.write(new Date().getFullYear())
 							</script>
-							Vincent Restaurant Powered by JAIRI Idriss
+							Manchala Sreekanth
 						</div>
 					</div>
 					<div class="col-md-6 xs-padding">
